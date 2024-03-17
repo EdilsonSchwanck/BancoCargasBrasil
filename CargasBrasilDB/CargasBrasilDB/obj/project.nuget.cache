@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "flYZOG/m9tSiyVTXmuWbk595x0ixaqJERPUFRihuQF8+gbpA+3oklS5D3Tr2jwoxz297nWYq37aFXmMD68rjJQ==",
+  "dgSpecHash": "D1GGfwMRYLFHoWq2TkTGyYdGg3qzBV50ZL9g5f2sgmxSXmOeMjbFPp9saSa4jElhWsbp/yzpOJvHO6eVmiAWjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Edilson Schwanck\\Desktop\\Trabalho Daniel\\CargasBrasil2\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj",
+  "projectFilePath": "C:\\Users\\Edilson Schwanck\\Desktop\\ProjetoAulaFork\\BancoCargasBrasil\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edilson Schwanck\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Edilson Schwanck\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

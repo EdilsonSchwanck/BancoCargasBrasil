@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edilson Schwanck\\Desktop\\Trabalho Daniel\\CargasBrasil2\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj": {}
+    "C:\\Users\\Edilson Schwanck\\Desktop\\ProjetoAulaFork\\BancoCargasBrasil\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edilson Schwanck\\Desktop\\Trabalho Daniel\\CargasBrasil2\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj": {
+    "C:\\Users\\Edilson Schwanck\\Desktop\\ProjetoAulaFork\\BancoCargasBrasil\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edilson Schwanck\\Desktop\\Trabalho Daniel\\CargasBrasil2\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj",
+        "projectUniqueName": "C:\\Users\\Edilson Schwanck\\Desktop\\ProjetoAulaFork\\BancoCargasBrasil\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj",
         "projectName": "CargasBrasilDB",
-        "projectPath": "C:\\Users\\Edilson Schwanck\\Desktop\\Trabalho Daniel\\CargasBrasil2\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj",
+        "projectPath": "C:\\Users\\Edilson Schwanck\\Desktop\\ProjetoAulaFork\\BancoCargasBrasil\\CargasBrasilDB\\CargasBrasilDB\\CargasBrasilDB.csproj",
         "packagesPath": "C:\\Users\\Edilson Schwanck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edilson Schwanck\\Desktop\\Trabalho Daniel\\CargasBrasil2\\CargasBrasilDB\\CargasBrasilDB\\obj\\",
+        "outputPath": "C:\\Users\\Edilson Schwanck\\Desktop\\ProjetoAulaFork\\BancoCargasBrasil\\CargasBrasilDB\\CargasBrasilDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edilson Schwanck\\AppData\\Roaming\\NuGet\\NuGet.Config",
