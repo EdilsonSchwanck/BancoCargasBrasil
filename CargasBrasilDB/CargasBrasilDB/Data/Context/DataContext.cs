@@ -1,22 +1,17 @@
-﻿using CargasBrasilDB.Domin.Entities;
-using CargasBrasilDB.Mapper.Types;
+﻿using CargasBrasilDB.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace CargasBrasilDB.Data.Context
 {
     public class DataContext : DbContext
     {
-        public DataContext(DbContextOptions<DataContext> options) : base(options)
-        {
+        public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-        }
-
-        public DbSet<Driver> Driver { get; set; }
+        public DbSet<Driver> Drivers => Set<Driver>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration(new DriverMap());
-
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(DataContext).Assembly);
         }
     }
 }

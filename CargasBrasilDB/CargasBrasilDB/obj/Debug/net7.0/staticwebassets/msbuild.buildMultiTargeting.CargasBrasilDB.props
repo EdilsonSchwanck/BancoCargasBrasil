@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CargasBrasilDB.props" />
-</Project>
