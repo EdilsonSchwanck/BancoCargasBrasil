@@ -92,6 +92,4 @@ dotnet run
 
 O Swagger fica em https://localhost:7059/swagger
 
-## Autor
 
-Edilson
